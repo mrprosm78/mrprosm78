@@ -1,16 +1,24 @@
-## Hi there 👋
+# Siraj Momin
 
-<!--
-**mrprosm78/mrprosm78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior PHP & Laravel Developer** building business systems, commerce integrations and workflow automation.
 
-Here are some ideas to get you started:
+I turn operational processes into applications people can use: from care workforce and compliance workflows to custom commerce platforms and integrations between stores. My work spans architecture, database design, PHP development, APIs, background jobs, reporting and deployment support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Explore my project case studies](https://github.com/mrprosm78/engineering-project-case-studies) · [LinkedIn](https://www.linkedin.com/in/siraj78/)
+
+## Featured work
+
+| Project | What it demonstrates |
+| --- | --- |
+| [Care operations platform](https://github.com/mrprosm78/engineering-project-case-studies/blob/main/care-operations-platform.md) | Connected recruitment, staff, training, rota, attendance, audits and payroll-preparation workflows |
+| [Custom commerce platform](https://github.com/mrprosm78/engineering-project-case-studies/blob/main/custom-commerce-platform.md) | A WooCommerce storefront with indexed search, a BDM dashboard, supplier product imports and performance-focused assets |
+| [Commerce integration service](https://github.com/mrprosm78/engineering-project-case-studies/blob/main/commerce-integration-service.md) | Product, stock and order exchange across WooCommerce and Shopify using queues, webhooks and reconciliation |
+
+## Other engineering work
+
+[Project-scoped automation](https://github.com/mrprosm78/engineering-project-case-studies/blob/main/automation-control-platform.md) · [Document processing and OCR](https://github.com/mrprosm78/engineering-project-case-studies/blob/main/document-processing-service.md) · [Self-hosted AI services](https://github.com/mrprosm78/engineering-project-case-studies/blob/main/self-hosted-ai-services.md)
+
+**Core skills:** PHP, Laravel, WordPress, WooCommerce, SQL, JavaScript, REST APIs, webhooks, queues, Python, Docker and systems integration.
+
+The case studies contain notes and diagrams only. Project source and operational data remain private.
+
