@@ -1,6 +1,6 @@
 # Siraj Momin
 
-**Senior PHP & Laravel Developer** building business systems, commerce integrations and workflow automation.
+**Senior Software Engineer (PHP/Laravel) | Systems Integration & Automation**
 
 I turn operational processes into applications people can use: from care workforce and compliance workflows to custom commerce platforms and integrations between stores. My work spans architecture, database design, PHP development, APIs, background jobs, reporting and deployment support.
 
