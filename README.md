@@ -14,6 +14,8 @@ I turn operational processes into applications people can use: from care workfor
 | [Custom commerce platform](https://github.com/mrprosm78/engineering-project-case-studies/blob/main/custom-commerce-platform.md) | A WooCommerce storefront with indexed search, a BDM dashboard, supplier product imports and performance-focused assets |
 | [Commerce integration service](https://github.com/mrprosm78/engineering-project-case-studies/blob/main/commerce-integration-service.md) | Product, stock and order exchange across WooCommerce and Shopify using queues, webhooks and reconciliation |
 
+The care platform has a [detailed module map](https://github.com/mrprosm78/engineering-project-case-studies/blob/main/care-operations-module-map.md) covering the implementation and current limits across its workforce, payroll, quality and document workflows.
+
 ## Other engineering work
 
 [Project-scoped automation](https://github.com/mrprosm78/engineering-project-case-studies/blob/main/automation-control-platform.md) · [Document processing and OCR](https://github.com/mrprosm78/engineering-project-case-studies/blob/main/document-processing-service.md) · [Self-hosted AI services](https://github.com/mrprosm78/engineering-project-case-studies/blob/main/self-hosted-ai-services.md)
