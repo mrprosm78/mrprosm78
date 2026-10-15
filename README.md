@@ -16,6 +16,10 @@ I turn operational processes into applications people can use: from care workfor
 
 The care platform has a [detailed module map](https://github.com/mrprosm78/engineering-project-case-studies/blob/main/care-operations-module-map.md) covering the implementation and current limits across its workforce, payroll, quality and document workflows.
 
+Its [kiosk and staff app deep dive](https://github.com/mrprosm78/engineering-project-case-studies/blob/main/care-operations-kiosk-and-staff-app.md) explains clocking accuracy, offline sync, approved hours, staff self-service and the message inbox.
+
+I also documented the [related engineering projects](https://github.com/mrprosm78/engineering-project-case-studies/blob/main/care-platform-engineering-ecosystem.md), including the Android kiosk shell, document processor and separate service experiments, with their current status.
+
 ## Other engineering work
 
 [Project-scoped automation](https://github.com/mrprosm78/engineering-project-case-studies/blob/main/automation-control-platform.md) · [Document processing and OCR](https://github.com/mrprosm78/engineering-project-case-studies/blob/main/document-processing-service.md) · [Self-hosted AI services](https://github.com/mrprosm78/engineering-project-case-studies/blob/main/self-hosted-ai-services.md)
